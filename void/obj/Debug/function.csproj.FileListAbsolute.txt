@@ -1,0 +1,7 @@
+C:\Users\KjuEf\Desktop\c#\void\void\bin\Debug\@void.exe.config
+C:\Users\KjuEf\Desktop\c#\void\void\bin\Debug\@void.exe
+C:\Users\KjuEf\Desktop\c#\void\void\bin\Debug\@void.pdb
+C:\Users\KjuEf\Desktop\c#\void\void\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\Users\KjuEf\Desktop\c#\void\void\obj\Debug\@void.exe
+C:\Users\KjuEf\Desktop\c#\void\void\obj\Debug\@void.pdb
+C:\Users\KjuEf\Desktop\c#\void\void\obj\Debug\function.csprojAssemblyReference.cache
